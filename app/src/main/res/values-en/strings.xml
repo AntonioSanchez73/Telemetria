@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Personal Information</string>
+    <string name="bienvenida">We want to steal your information, so if you would be so kind...⬇️</string>
+
+    <string name="txtNombre">First Name</string>
+    <string name="txtApellido">Last Name</string>
+    <string name="txtEdad">Age</string>
+    <string name="txtGenero">Gender</string>
+    <string name="txtGenHombre">Male</string>
+    <string name="txtGenMujer">Female</string>
+    <string name="txtCivil">Marital Status</string>
+    <string name="txtHijos">Has Children</string>
+
+    <string-array name="selectCivil">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Separated</item>
+        <item>Widowed</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="selectIdioma">
+        <item>Spanish</item>
+        <item>English</item>
+        <item>Portuguese</item>
+    </string-array>
+
+    <!-- BOTONES -->
+    <string name="btnEnviar">Submit</string>
+    <string name="btnLimpiar">Clear</string>
+
+    <!-- VARIABLES -->
+    <dimen name="ancho">350dp</dimen>
+    <dimen name="alto">60dp</dimen>
+
+</resources>

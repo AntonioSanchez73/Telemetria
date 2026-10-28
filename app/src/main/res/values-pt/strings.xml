@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Informações Pessoais</string>
+    <string name="bienvenida">Queremos roubar as suas informações, por isso, se tiver a gentileza...⬇️</string>
+
+    <string name="txtNombre">Nome</string>
+    <string name="txtApellido">Apelido</string>
+    <string name="txtEdad">Idade</string>
+    <string name="txtGenero">Género</string>
+    <string name="txtGenHombre">Masculino</string>
+    <string name="txtGenMujer">Feminino</string>
+    <string name="txtCivil">Estado civil</string>
+    <string name="txtHijos">Tem filhos</string>
+
+    <string-array name="selectCivil">
+        <item>Solteir@</item>
+        <item>Casad@</item>
+        <item>Separad@</item>
+        <item>Viúv@</item>
+        <item>Outro</item>
+    </string-array>
+
+    <string-array name="selectIdioma">
+        <item>Espanhol</item>
+        <item>Inglês</item>
+        <item>Português</item>
+    </string-array>
+
+    <!-- BOTONES -->
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnLimpiar">Limpar</string>
+
+    <!-- VARIABLES -->
+    <dimen name="ancho">350dp</dimen>
+    <dimen name="alto">60dp</dimen>
+
+</resources>
